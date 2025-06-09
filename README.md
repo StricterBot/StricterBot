@@ -45,8 +45,6 @@ _Data Analyst_
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution
 
-![snake gif](https://github.com/stricterbot/stricterbot/blob/output/github-contribution-grid-snake.svg)
-
----
+![snake gif](https://raw.githubusercontent.com/stricterbot/stricterbot/main/output/github-contribution-grid-snake.svg)
