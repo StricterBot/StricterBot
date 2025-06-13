@@ -4,7 +4,7 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/stricterbot)
 [![Backloggd](https://img.shields.io/badge/Backloggd-000?logo=metacritic&logoColor=fff)](https://backloggd.com/u/stricterr/)
 </div>
-<img align="left" width="350px" src="https://drive.google.com/uc?export=view&id=1QG-J5BXNWF93ZM8SGBgO7rMXnKFGvP1t">
+<img align="left" width="380px" src="https://drive.google.com/uc?export=view&id=1QG-J5BXNWF93ZM8SGBgO7rMXnKFGvP1t">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=36BCF7FF&width=435&lines=Keep+improving)](https://git.io/typing-svg)
 ```python
