@@ -23,9 +23,9 @@
 
 ### ℹ️ About me
 
-<p align="justify">My name is Victor Moreira, also known as Stricter. I am a backend developer specializing in data analysis and information security.<br>
+<p align="justify">My name is Victor Moreira, also known as <b>Stricter</b>. I am a backend developer specializing in data analysis and information security.<br>
   I strive to solve my real-world problems with code, creating efficient tools.<br><br>
-  Language Proficiency: Portuguese (Native), English (C1), Spanish (B2), Italian (A2).</p>
+  <b>Language Proficiency:</b> Portuguese (Native), English (C1), Spanish (B2), Italian (A2).</p>
 
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/victor-moreira-4210b9358/)
 
